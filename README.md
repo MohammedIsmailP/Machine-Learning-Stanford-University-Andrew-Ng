@@ -14,3 +14,9 @@ This course provides a broad introduction to Machine learning, Data mining, and 
 1. Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks).
 2. Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning).
 3. Best practices in machine learning (bias/variance theory, innovation process in machine learning and AI).
+
+# Syllabus
+
+## Week 1 : Introduction, Linear Regression and Linear Algebra
+
+This module introduces us to the core concept of teaching a computer to learn concepts using data — without being explicitly programmed. Linear regression predicts a real-valued output based on input value with the help of notions like Cost function and Gradient descent. The optional Linear algebra module provides a refreshments on the basic understanding of linear algebra concepts.
